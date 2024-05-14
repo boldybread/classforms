@@ -1,6 +1,6 @@
 import React from "react";
 import SocialCardForm from "./SocialCardForm";
-import SocialCardDisplay from "./SocialCardDisplay";
+import SocialCardDisplay from "./SocialCardDisplay.jsx";
 import { faker } from "@faker-js/faker";
 
 export default class SocialCardParent extends React.Component {
